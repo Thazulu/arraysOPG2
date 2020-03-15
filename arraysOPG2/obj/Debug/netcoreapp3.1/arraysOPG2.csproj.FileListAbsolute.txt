@@ -1,0 +1,11 @@
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\bin\Debug\netcoreapp3.1\arraysOPG2.exe
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\bin\Debug\netcoreapp3.1\arraysOPG2.deps.json
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\bin\Debug\netcoreapp3.1\arraysOPG2.runtimeconfig.json
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\bin\Debug\netcoreapp3.1\arraysOPG2.runtimeconfig.dev.json
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\bin\Debug\netcoreapp3.1\arraysOPG2.dll
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\bin\Debug\netcoreapp3.1\arraysOPG2.pdb
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\obj\Debug\netcoreapp3.1\arraysOPG2.AssemblyInfoInputs.cache
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\obj\Debug\netcoreapp3.1\arraysOPG2.AssemblyInfo.cs
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\obj\Debug\netcoreapp3.1\arraysOPG2.dll
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\obj\Debug\netcoreapp3.1\arraysOPG2.pdb
+C:\Users\Steffan\source\repos\arraysOPG2\arraysOPG2\obj\Debug\netcoreapp3.1\arraysOPG2.csprojAssemblyReference.cache
